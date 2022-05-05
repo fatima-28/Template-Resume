@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+ font-size: 50px;
+ 
+
+}
+.line{
+    background-color: black;
+    width: 1000px;
+    height: 2px;
+    margin: 0px !important; 
+    
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-div{
+    margin-left: 40px;
+    width: 1050px;
+}
+.title{
+    margin: 7PX;
+}
+
+
+div{
+    margin-right: 70px;
+    margin-top: 15px;
+}
